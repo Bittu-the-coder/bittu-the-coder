@@ -3,7 +3,7 @@
 Full Stack Developer building modern web apps with **React** and **Next.js**.  
 I also build mobile apps with **Flutter**, and I’m currently learning **Java Spring Boot (Beginner)** and **Rust**.
 
-- Portfolio: **https://bitttuthecoder.me**
+- Portfolio: **[https://bittuthecoder.me](https://bittuthecoder.me/)**
 - GitHub: **https://github.com/Bittu-the-coder**
 - LinkedIn: **https://www.linkedin.com/in/bittu-prajapati-a84879233/**
 - Twitter/X: **https://x.com/Bittuthecoder**
